@@ -138,7 +138,7 @@ if __name__ == "__main__":
     plt.plot(oXY["X"],oXY["Y"], 'o',label="Tenkan Mod", color='#0496ff')
 
     oXY = Operator(date_axis,d2['kijun_sen'])
-    plt.plot(oXY["X"],oXY["Y"],label="Kijun Mod", color="#991515")
+    plt.plot(oXY["X"],oXY["Y"], 'o', label="Kijun Mod", color="#991515")
     
     oXY = Operator(date_axis,d2['senkou_span_a'])
     plt.plot(oXY["X"],oXY["Y"],'o', label="Span A Mod", color="#008000")
