@@ -3,18 +3,14 @@
 
 ![alt tag](https://github.com/PC-SET/Ichimoku_Indicator/blob/main/Image/1.jpg?raw=true "Индикатор Ишимоку")​
 
-    Формула
+    Формула Уиткера, для апроксимации сигналов индикатора
 
 ![alt tag](https://github.com/PC-SET/Ichimoku_Indicator/blob/main/Image/2.jpg?raw=true "-")​
 
-    Формула
+    Формула модификатора индикатора, для лучшей апроксимации
 
 ![alt tag](https://github.com/PC-SET/Ichimoku_Indicator/blob/main/Image/3.jpg?raw=true "-")​
 
-    Формула
-
-![alt tag](https://github.com/PC-SET/Ichimoku_Indicator/blob/main/Image/4.jpg?raw=true "-")​
-
-    Формула
+    Синк функция
 
 ![alt tag](https://github.com/PC-SET/Ichimoku_Indicator/blob/main/Image/5.jpg?raw=true "-")​
